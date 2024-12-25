@@ -1,0 +1,3 @@
+D:\Stargazing Project\VS 2022 Project\computervision\x64\Debug\computervision.exe
+D:\Stargazing Project\VS 2022 Project\Computer Vision\x64\Debug\computervision.exe
+D:\Stargazing Project\VS2022 Project\Computer Vision\x64\Debug\computervision.exe

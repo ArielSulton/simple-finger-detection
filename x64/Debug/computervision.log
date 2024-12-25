@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Stargazing Project\VS2022 Project\Computer Vision\test.cpp(24,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Stargazing Project\VS2022 Project\Computer Vision\test.cpp(30,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  computervision.vcxproj -> D:\Stargazing Project\VS2022 Project\Computer Vision\x64\Debug\computervision.exe
